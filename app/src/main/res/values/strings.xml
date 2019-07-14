@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALC Activity Launcher</string>
+    <string name="button1_description">Click here to see the ALC profile page</string>
+    <string name="my_profile">Click here to see my profile</string>
+    <string name="about_me">About Me</string>
+    <string name="about_alc">About ALC</string>
+
+</resources>
